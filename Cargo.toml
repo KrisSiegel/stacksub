@@ -1,0 +1,7 @@
+[package]
+name = "stacksub"
+version = "0.0.1"
+authors = ["Kris Siegel"]
+publish = false
+
+[dependencies]
